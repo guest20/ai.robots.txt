@@ -41,12 +41,26 @@
         "frequency": "No information provided.",
         "description": "Scrapes data for AI systems."
     },
+    "AIWebIndex": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Providers",
+        "frequency": "Unclear at this time.",
+        "description": "Description unavailable from darkvisitors.com More info can be found at https://darkvisitors.com/agents/agents/aiwebindex"
+    },
     "amazon-kendra": {
         "operator": "Amazon",
         "respect": "Yes",
         "function": "Collects data for AI natural language search",
         "frequency": "No information provided.",
         "description": "Amazon Kendra is a highly accurate intelligent search service that enables your users to search unstructured data using natural language. It returns specific answers to questions, giving users an experience that's close to interacting with a human expert. It is highly scalable and capable of meeting performance demands, tightly integrated with other AWS services such as Amazon S3 and Amazon Lex, and offers enterprise-grade security."
+    },
+    "amazon-QBusiness": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Assistants",
+        "frequency": "Unclear at this time.",
+        "description": "Description unavailable from darkvisitors.com More info can be found at https://darkvisitors.com/agents/agents/amazon-qbusiness"
     },
     "Amazonbot": {
         "operator": "Amazon",
@@ -1014,6 +1028,13 @@
         "frequency": "No information.",
         "description": "Makes data available for training AI models."
     },
+    "TongyiBot": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Assistants",
+        "frequency": "Unclear at this time.",
+        "description": "Description unavailable from darkvisitors.com More info can be found at https://darkvisitors.com/agents/agents/tongyibot"
+    },
     "Trae": {
         "operator": "Unclear at this time.",
         "respect": "Unclear at this time.",
@@ -1097,6 +1118,13 @@
         "function": "Scrapes/analyzes data for the YandexGPT LLM.",
         "frequency": "No information.",
         "description": "Retrieves data used for YandexGPT quick answers features."
+    },
+    "YiyanBot": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Assistants",
+        "frequency": "Unclear at this time.",
+        "description": "Description unavailable from darkvisitors.com More info can be found at https://darkvisitors.com/agents/agents/yiyanbot"
     },
     "YouBot": {
         "operator": "[You](https://about.you.com/youchat/)",
