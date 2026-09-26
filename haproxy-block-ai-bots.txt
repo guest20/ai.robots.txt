@@ -1,4 +1,5 @@
 AddSearchBot
+AgentDataBot
 AgentTimes
 AI2Bot
 AI2Bot-DeepResearchEval
@@ -24,6 +25,7 @@ Awario
 AzureAI-SearchBot
 bedrockbot
 bigsur.ai
+BixelBot
 Bravebot
 Brightbot
 Brightbot 1.0
@@ -40,6 +42,7 @@ Claude-User
 Claude-Web
 ClaudeBot
 Cloudflare-AutoRAG
+CloudflareBrowserRenderingCrawler
 CloudVertexBot
 Code
 cohere-ai
@@ -87,6 +90,7 @@ img2dataset
 ISSCyberRiskCrawler
 kagi-fetcher
 Kangaroo Bot
+Kimi-Agent
 Kimi-User
 KlaviyoAIBot
 KunatoCrawler
@@ -126,6 +130,7 @@ PetalBot
 PhindBot
 Poggio-Citations
 Poseidon Research Crawler
+qodercli
 QualifiedBot
 Querit-SearchBot
 QueritBot
