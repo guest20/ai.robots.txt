@@ -45,6 +45,7 @@ Cloudflare-AutoRAG
 CloudflareBrowserRenderingCrawler
 CloudVertexBot
 Code
+Codex
 cohere-ai
 cohere-training-data-crawler
 Cotoyogi
@@ -87,6 +88,7 @@ ICC-Crawler
 ImagesiftBot
 imageSpider
 img2dataset
+Instinct
 ISSCyberRiskCrawler
 kagi-fetcher
 Kangaroo Bot
@@ -109,6 +111,7 @@ meta-webindexer
 MistralAI-User
 MistralAI-User/1.0
 Mozilla-Tabstack
+Muse
 MyCentralAIScraperBot
 NagetBot
 netEstate Imprint Crawler

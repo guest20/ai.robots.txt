@@ -329,6 +329,13 @@
         "description": "Code (GitHub Copilot) is an AI coding agent that can autonomously plan, build, and execute development tasks, functioning as a collaborative AI pair programmer. More info can be found at https://knownagents.com/agents/code",
         "has_name_and_version": true
     },
+    "Codex": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Coding Agents",
+        "frequency": "Unclear at this time.",
+        "description": "Codex is an AI coding agent by OpenAI that helps developers write, review, debug, and ship code. More info can be found at https://knownagents.com/agents/codex"
+    },
     "cohere-ai": {
         "operator": "[Cohere](https://cohere.com)",
         "respect": "Unclear at this time.",
@@ -623,6 +630,13 @@
         "operator": "[img2dataset](https://github.com/rom1504/img2dataset)",
         "respect": "Unclear at this time."
     },
+    "Instinct": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Agents",
+        "frequency": "Unclear at this time.",
+        "description": "Instinct is a personal AI agent that uses a phone and computer to complete everyday tasks such as ordering groceries, booking travel, arranging appointments, and communic\u2026 More info can be found at https://knownagents.com/agents/instinct"
+    },
     "ISSCyberRiskCrawler": {
         "description": "Used to train machine learning based models to quantify cyber risk.",
         "frequency": "No information.",
@@ -776,6 +790,13 @@
         "function": "AI Data Providers",
         "frequency": "On demand via API.",
         "description": "Mozilla-Tabstack is an AI agent operated by Mozilla that performs programmatic, AI-driven interactions with web content through Tabstack. More info can be found at https://knownagents.com/agents/mozilla-tabstack"
+    },
+    "Muse": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Agents",
+        "frequency": "Unclear at this time.",
+        "description": "Muse is a personal AI agent created by Meta that uses a web browser and connected apps to complete multi-step tasks such as filling out forms, booking travel, sending ema\u2026 More info can be found at https://knownagents.com/agents/muse"
     },
     "MyCentralAIScraperBot": {
         "operator": "Unclear at this time.",
