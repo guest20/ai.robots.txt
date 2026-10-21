@@ -574,6 +574,13 @@
         "frequency": "No information.",
         "description": "Data is used to train current and future models, removed paywalled data, PII and data that violates the company's policies."
     },
+    "Grok Bot": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Agents",
+        "frequency": "Unclear at this time.",
+        "description": "Grok Bot is a personal AI agent created by xAI that runs on a persistent cloud computer with a browser, filesystem, and terminal. It completes multi-step tasks across app\u2026 More info can be found at https://knownagents.com/agents/grok-bot"
+    },
     "HenkBot": {
         "operator": "Unclear at this time.",
         "respect": "Unclear at this time.",
