@@ -413,6 +413,13 @@
         "frequency": "Unclear at this time.",
         "description": "Diffbot is a web crawler that extracts and structures website content using AI-powered visual understanding, providing knowledge graph data for applications like market i\u2026 More info can be found at https://knownagents.com/agents/diffbot"
     },
+    "Dot": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Agents",
+        "frequency": "Unclear at this time.",
+        "description": "Dot is an OpenAI AI agent that uses a cloud browser to research websites and carry out ongoing tasks for users. More info can be found at https://knownagents.com/agents/dot"
+    },
     "DuckAssistBot": {
         "operator": "Unclear at this time.",
         "respect": "[Yes](https://duckduckgo.com/duckduckgo-help-pages/results/duckassistbot/)",
@@ -587,6 +594,13 @@
         "function": "AI Agents",
         "frequency": "Unclear at this time.",
         "description": "Grok Bot is a personal AI agent created by xAI that runs on a persistent cloud computer with a browser, filesystem, and terminal. It completes multi-step tasks across app\u2026 More info can be found at https://knownagents.com/agents/grok-bot"
+    },
+    "HarkBot": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Agents",
+        "frequency": "Unclear at this time.",
+        "description": "HarkBot visits web pages on behalf of signed-in Hark users as Hark carries out research, form-filling, and account actions. More info can be found at https://knownagents.com/agents/harkbot"
     },
     "HenkBot": {
         "operator": "Unclear at this time.",

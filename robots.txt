@@ -57,6 +57,7 @@ User-agent: Datenbank Crawler
 User-agent: DeepSeekBot
 User-agent: Devin
 User-agent: Diffbot
+User-agent: Dot
 User-agent: DuckAssistBot
 User-agent: Echobot Bot
 User-agent: EchoboxBot
@@ -82,6 +83,7 @@ User-agent: GoogleOther-Image
 User-agent: GoogleOther-Video
 User-agent: GPTBot
 User-agent: Grok Bot
+User-agent: HarkBot
 User-agent: HenkBot
 User-agent: iAskBot
 User-agent: iaskspider

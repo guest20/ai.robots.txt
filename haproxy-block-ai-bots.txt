@@ -57,6 +57,7 @@ Datenbank Crawler
 DeepSeekBot
 Devin
 Diffbot
+Dot
 DuckAssistBot
 Echobot Bot
 EchoboxBot
@@ -82,6 +83,7 @@ GoogleOther-Image
 GoogleOther-Video
 GPTBot
 Grok Bot
+HarkBot
 HenkBot
 iAskBot
 iaskspider
